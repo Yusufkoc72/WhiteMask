@@ -1,0 +1,20 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, MernisServiceReference"
+    ],
+    "references": [
+      "C:\\Users\\yusuf\\Desktop\\Kodlama.io dersleri tamamlama\\ödevler\\1.dersin ödevleri\\1.dersin 2.ödevi\\whitemask\\WhiteMask\\Work\\bin\\Release\\net8.0\\Entities.dll"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
